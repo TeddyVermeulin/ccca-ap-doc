@@ -8,8 +8,9 @@
   ],
   "anchors": [
     {
-      title: "Site",
-      icon: "house",
-      link: "https://www.appels-a-projets-cccabtp.fr/" }
+      "title": "Site",
+      "icon": "house",
+      "link": "https://www.appels-a-projets-cccabtp.fr/"
+    }
   ]
 }
