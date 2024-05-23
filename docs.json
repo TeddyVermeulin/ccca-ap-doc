@@ -1,7 +1,9 @@
 {
-  "name": "Appels à projets",
-  "theme": "#FFED00",
+  "name": "Documentation",
+  "theme": "#68635E",
   "noindex": true,
+  "logo": "/assets/logo/logo.svg",
+  "logoDark": "/assets/logo/logo-dark.svg",
   "sidebar": [
     ["Accueil", "/"]
   ],
