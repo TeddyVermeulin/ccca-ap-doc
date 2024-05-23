@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "Docs",
   "theme": "#68635E",
   "noindex": true,
-  "logo": "/assets/logo/logo.svg",
-  "logoDark": "/assets/logo/logo-dark.svg",
+  "logo": "/assets/logo/logo@4x.png",
+  "logoDark": "/assets/logo/logo-dark@4x.png",
   "sidebar": [
     ["Accueil", "/"]
   ],
