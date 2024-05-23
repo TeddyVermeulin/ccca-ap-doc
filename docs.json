@@ -1,10 +1,9 @@
 {
-  "name": "docs.page",
-  "theme": "#36B9B9",
-  "noindex": "noindex",
+  "name": "Appels à projets",
+  "theme": "#FFED00",
+  "noindex": true,
   "sidebar": [
-    ["Home", "/"],
-    ["Another Page", "/another-page"],
+    ["Accueil", "/"]
   ],
   "anchors": [
     {
@@ -12,5 +11,10 @@
       "icon": "house",
       "link": "https://www.appels-a-projets-cccabtp.fr/"
     }
-  ]
+  ],
+  "docsearch": {
+    "apiKey": "7fbea4ffa69b871b7d9ba25174f233bc",
+    "appId": "MA131JB5MV",
+    "indexName": "page"
+  }
 }
