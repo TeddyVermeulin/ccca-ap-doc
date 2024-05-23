@@ -1,9 +1,9 @@
 {
-  "name": "Docs",
+  "name": "Appels à projets du CCCA-BTP",
   "theme": "#68635E",
   "noindex": true,
-  "logo": "/assets/logo/logo@4x.png",
-  "logoDark": "/assets/logo/logo-dark@4x.png",
+  "logo": "/assets/logo/icon.png",
+  "logoDark": "/assets/logo/icon-dark.png",
   "sidebar": [
     ["Accueil", "/"]
   ],
